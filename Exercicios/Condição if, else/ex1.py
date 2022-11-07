@@ -1,5 +1,5 @@
 nome = str(input('qual seu nome'))
 if nome == 'gustavo':
-    print('que gay')
+    print('lindo')
 else:
     print('bom dia')
