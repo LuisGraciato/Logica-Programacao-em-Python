@@ -7,8 +7,8 @@ voce = int(input('digite um numero de 1 a 5'))
 print('ESTOU PENSANDO...')
 time.sleep(5)
 if voce == pc:
-    print('VOCE ACERTOU CORNO')
+    print('VOCE ACERTOU ')
 else:
-    print('vc errou imundo')
+    print('vc errou')
 
 
