@@ -1,4 +1,4 @@
 # Python-Exercicios
-Vários exercicios de Python feitos por mim e nois
+Vários exercicios de Python feitos por mim
 
 
